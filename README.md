@@ -1,4 +1,6 @@
-# covid19
+# Covid19
+## Simple data visualization with api
+## Vuex & Vuetify
 
 ## Project setup
 ```
